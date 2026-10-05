@@ -1,0 +1,14 @@
+.git
+.github
+.venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.ruff_cache
+.env
+*.db
+*.sqlite3
+tests
+Тестовое_Junior_Python_FastAPI.pdf
+.pytest-tmp-*/
+_audit_clean_copy_*/
